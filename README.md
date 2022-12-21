@@ -1,9 +1,8 @@
 # Live_Cyber_Attack_Map_Azure_Sentinel
 
-- In this project I set up my own SIEM on Azure, monitor live attacks and plot them on a live map.
-- This project was done in microsoft Azurecreating a honeypot virtual machine.
-- We will need a remote desktop client to access the VM from Azure cloud.
-- We will create a custom log analytic on azure to synch with the Honeypot VM.
+<img src="https://github.com/sanfofana/Live_Cyber_Attack_Map_Azure_Sentinel/blob/main/Azure_Sentinel_Map.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 ## Step by Step procedures:
 
@@ -35,8 +34,7 @@
         - Click on visualization and select MAP.
         - Select your custom field with the coordonnate sets.
 
-
-
+<img src="https://github.com/sanfofana/Live_Cyber_Attack_Map_Azure_Sentinel/blob/main/Azure%20Sentinel%20Siem.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
